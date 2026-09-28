@@ -1,0 +1,11 @@
+A Gemini le proporcioné este prompt, para que me sacara las características de la página web: Podrías decirme las características de esta página web para que otra IA me genere una página similar  con las mismas secciones, pero utilizando otro tema, colores, iconos, etc, esta solo puede tener HTML y CSS puro sin frameworks"
+
+A Figma le pedí este prompt "Podrías generarme el código completo en HTML5 y CSS3 puro (sin usar ningún framework) de una página web con la siguiente estructura y secciones exactas, pero cambiando la temática, usando una paleta de colores diferente y nuevos iconos:
+
+Una barra de navegación superior con logotipo a la izquierda y tres enlaces a la derecha.
+
+Una sección 'Hero' con fondo de color oscuro, un título principal grande, un subtítulo, un botón de llamada a la acción y un espacio para una ilustración geométrica a la derecha.
+
+Una sección central con tres tarjetas en columna que incluyan un icono, un título y una descripción breve.
+
+Una sección inferior de pie de página dividida en tres columnas con información de dirección, horarios y datos de contacto."
